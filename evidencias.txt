@@ -1,0 +1,75 @@
+=== Ejercicio 1. Viaje en taxi === 
+(salida de la terminal de cada caso de prueba) 
+
+Seleccione un ejercicio para ejecutar:
+1. Ejercicio 1: Taxi
+2. Ejercicio 2: Comisión de Ventas
+3. Ejercicio 3: Biblioteca
+4. Salir
+Ingrese el número del ejercicio a ejecutar (1-4): 1
+Ingrese la distancia del viaje en kilómetros: 5
+El importe del viaje es: $80.00
+
+Ingrese la distancia del viaje en kilómetros: 20
+El importe del viaje es: $215.00
+
+Ingrese la distancia del viaje en kilómetros: 21
+El importe del viaje es: $201.60
+
+Ingrese la distancia del viaje en kilómetros: 30
+El importe del viaje es: $274.50
+
+
+=== Ejercicio 2. Comisión de ventas === 
+(salida de la terminal de cada caso de prueba) 
+
+Seleccione un ejercicio para ejecutar:
+1. Ejercicio 1: Taxi
+2. Ejercicio 2: Comisión de Ventas
+3. Ejercicio 3: Biblioteca
+4. Salir
+Ingrese el número del ejercicio a ejecutar (1-4): 2
+Ingrese las ventas del vendedor: 5000
+Comisión: $250.00
+Bono: $0.00
+Total a pagar: $250.00
+
+Ingrese las ventas del vendedor: 10000
+Comisión: $800.00
+Bono: $0.00
+Total a pagar: $800.00
+
+Ingrese las ventas del vendedor: 50000
+Comisión: $4000.00
+Bono: $0.00
+Total a pagar: $4000.00
+
+Ingrese las ventas del vendedor: 50001
+Comisión: $4000.08
+Bono: $1000.00
+Total a pagar: $5000.08
+
+
+=== Ejercicio 3. Multa de biblioteca === 
+(salida de la terminal de cada caso de prueba)
+
+Seleccione un ejercicio para ejecutar:
+1. Ejercicio 1: Taxi
+2. Ejercicio 2: Comisión de Ventas
+3. Ejercicio 3: Biblioteca
+4. Salir
+Ingrese el número del ejercicio a ejecutar (1-4): 3
+Ingrese los días de retraso: 0
+La multa a pagar es: $0
+
+Ingrese los días de retraso: 10
+La multa a pagar es: $50
+
+Ingrese los días de retraso: 11
+La multa a pagar es: $60
+
+Ingrese los días de retraso: 25
+La multa a pagar es: $200
+
+Ingrese los días de retraso: 40
+La multa a pagar es: $200
