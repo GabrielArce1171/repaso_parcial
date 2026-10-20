@@ -1,0 +1,1 @@
+En general no tuve problemas al hacer el archivo y pude usar todos los conocimientos que hemos visto hasta ahora en la materia, solo tuve que consultar mis notas del archivo pasado para ver el código que se pone en el archivo main.py y como desplegar el menu en la terminal.
